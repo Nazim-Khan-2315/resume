@@ -1,27 +1,27 @@
-```{=html}
+{=html}
 <h1 align="center">
-```
+
 Hi 👋, I'm Nazim Khan
-```{=html}
+{=html}
 </h1>
-```
-```{=html}
+
+{=html}
 <h3 align="center">
-```
+
 Data Analyst \| SQL \| Power BI \| Python \| Excel
-```{=html}
+{=html}
 </h3>
-```
-```{=html}
+
+{=html}
 <p align="center">
-```
+
 `<a href="https://github.com/Nazim-Khan-2315">`{=html}GitHub`</a>`{=html}
 •
 `<a href="https://nazim-khan-2315.github.io">`{=html}Portfolio`</a>`{=html}
 • `<a href="mailto:Khan.nazim.2315@gmail.com">`{=html}Email`</a>`{=html}
-```{=html}
+{=html}
 </p>
-```
+
 ## About Me
 
 I am a B.Tech graduate in **Artificial Intelligence & Data Science**
@@ -132,11 +132,11 @@ IIMT College of Engineering, Greater Noida\
 
 ------------------------------------------------------------------------
 
-```{=html}
+{=html}
 <p align="center">
-```
+
 Thanks for visiting my profile! I'm always interested in learning,
 building, and exploring data-driven solutions.
-```{=html}
+html}
 </p>
-```
+
