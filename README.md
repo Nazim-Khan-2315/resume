@@ -11,10 +11,10 @@ Data Analyst \| SQL \| Power BI \| Python \| Excel
 
 <p align="center">
 
-`<a href="https://github.com/Nazim-Khan-2315">`{=html}GitHub`</a>`{=html}
-•
-`<a href="https://nazim-khan-2315.github.io">`{=html}Portfolio`</a>`{=html}
-• `<a href="mailto:Khan.nazim.2315@gmail.com">`{=html}Email`</a>`{=html}
+<a href="https://github.com/Nazim-Khan-2315">GitHub</a>
+
+<a href="https://nazim-khan-2315.github.io">Portfolio</a>
+<a href="mailto:Khan.nazim.2315@gmail.com"></a>
 
 </p>
 
