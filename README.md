@@ -1,25 +1,21 @@
-{=html}
+
 <h1 align="center">
 
 Hi 👋, I'm Nazim Khan
-{=html}
 </h1>
 
-{=html}
 <h3 align="center">
 
 Data Analyst \| SQL \| Power BI \| Python \| Excel
-{=html}
 </h3>
 
-{=html}
 <p align="center">
 
 `<a href="https://github.com/Nazim-Khan-2315">`{=html}GitHub`</a>`{=html}
 •
 `<a href="https://nazim-khan-2315.github.io">`{=html}Portfolio`</a>`{=html}
 • `<a href="mailto:Khan.nazim.2315@gmail.com">`{=html}Email`</a>`{=html}
-{=html}
+
 </p>
 
 ## About Me
@@ -132,7 +128,6 @@ IIMT College of Engineering, Greater Noida\
 
 ------------------------------------------------------------------------
 
-{=html}
 <p align="center">
 
 Thanks for visiting my profile! I'm always interested in learning,
